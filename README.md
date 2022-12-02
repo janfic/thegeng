@@ -1,1 +1,3 @@
-# thegeng
+# The Geng Game
+
+Idea still pending...
